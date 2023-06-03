@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  text-align: center;
+}
+
+figure{
+  text-align: center;
+}
+
+section[id="featured-property"] p{
+
+  width: 800px;
+  text-align: center;
+}
+
+figcaption{
+  font-size: smaller;
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:rgb(76, 67, 190);
+}
+
+section[id="details"] div{
+  float: left;
+  text-align: center;
+  width: 200px;
+  background-color: brown;
+}
+
